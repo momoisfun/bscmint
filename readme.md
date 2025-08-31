@@ -1,0 +1,1 @@
+a mint contract on bsc chain
